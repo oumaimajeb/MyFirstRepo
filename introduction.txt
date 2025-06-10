@@ -1,0 +1,6 @@
+# Brief Introduction About Myself
+
+Hello! My name is Oumaima Jebrouni. I'm passionate about technology, languages, and helping others. I'm currently learning to become a virtual assistant and exploring entrepreneurship.
+
+I love traveling, reading, and working on projects that help people solve real-life problems. I created this repository as part of my journey in learning GitHub and software tools.
+Added introduction file
