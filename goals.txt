@@ -1,7 +1,7 @@
 My Personal and Academic Goals for Next Year
 
-- Finish ALX program successfully
-- Improve my coding skills
-- Build real-world projects
-- Read at least 5 tech books
+- Finish ALX successfully
+- Improve programming skills
+- Build projects
+- Read tech books
 - Apply for internships
