@@ -1,8 +1,7 @@
-# My Personal and Academic Goals for Next Year
+My Personal and Academic Goals for Next Year
 
-- Complete all assignments in my entrepreneurship course.
-- Improve my English fluency and communication skills.
-- Launch my first online service as a virtual assistant.
-- Learn basic web development and project management.
-- Help my family financially through freelancing work.
-Added goals list
+- Finish ALX successfully
+- Improve programming skills
+- Build projects
+- Read tech books
+- Apply for internships
